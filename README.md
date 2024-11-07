@@ -30,7 +30,7 @@ mostrando a área para realizar o login.
 - [GitHub Pages](https://pages.github.com/) (para hospedar o site de maneira gratuita).
 
 ## Estruturação das pastas no repositório
-
+```
 user-login-interface/         # Repositório
 ├── Página_de_Login/          # Pasta Principal
 │   ├── index.html            # Página principal
