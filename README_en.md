@@ -30,7 +30,7 @@ triggered (like sliding a door from right to left), revealing the login area.
 - [GitHub Pages](https://pages.github.com/) (for free site hosting).
 
 ## Folder Structure in the Repository
-
+```
 user-login-interface/         # Repository
 ├── Login_Page/               # Main Folder
 │   ├── index.html            # Main page
@@ -41,7 +41,7 @@ user-login-interface/         # Repository
             ├── font/         # Font subfolder         
 │       ├── js/               # Script subfolder              
 └── README.md
-
+```
 ## Note
 
 > Although the project includes a programming language (js), even though the end user can interact with the page fields,
