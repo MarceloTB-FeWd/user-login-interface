@@ -41,7 +41,7 @@ user-login-interface/         # Repositório
             ├── font/         # Subpasta da fonte         
 │       ├── js/               # Subpasta do script              
 └── README.md
-
+```
 ## Observação
 
 > Apesar do projeto possuir uma linguagem de programação (js), mesmo que o usuário final possa interagir com os campos da página,
